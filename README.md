@@ -1,5 +1,6 @@
 # epubjs-brightwing
 ### Changes made to epub.js https://github.com/futurepress/epub.js/
+The epub.js system was modified to serve the needs of a special fixed-layout ebook for Brightwing Books (brightwing.ca).
 
 #### epub.js
 Altered the pagination system to skip cfi calculations of `nextPage()` and `prePage()` 
